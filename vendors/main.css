@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+
+
+body{
+    /* comment */
+    /* background: url("../masum/cc/dd/Screenshot.png") no-repeat; */
+    background-size: cover;
+
+}
+
+p,h1,h3,h5 {
+    color: red;
+    
+
+}
+em{
+    font-size: 50px;
+    text-decoration: underline;
+}
+.cow{
+font-size: 20px;
+color: hotpink;
+
+
+}
+
+.masum{
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    color: green;
+    ;
+}
+.mm{
+    text-transform: capitalize;
+}
+#vi{
+    color: rgb(128, 0, 32);
+}
