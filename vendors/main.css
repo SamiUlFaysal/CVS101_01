@@ -1,0 +1,13 @@
+.listMain{ width: 100%;  }
+ol{
+    list-style-type: lower-alpha;
+}
+
+
+.vid{
+    width: 460px;
+    height: 262px;
+}
+.formTxt{
+    margin-top: 10px;
+} .uName{ color: hotpink; }
